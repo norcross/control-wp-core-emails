@@ -94,7 +94,7 @@ class ControlCoreEmails_Settings
 					echo '<br>';
 
 					// Add our intro content.
-					echo '<p class="description">' . esc_html__( 'Select the notification emails you want to disable.', 'control-wp-core-emails' ) . '</p>';
+					echo '<p class="description">' . esc_html__( 'Select the notification emails you want to suppress.', 'control-wp-core-emails' ) . '</p>';
 
 				echo '</td>';
 

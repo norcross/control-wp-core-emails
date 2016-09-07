@@ -25,7 +25,7 @@ This section describes how to install the plugin and get it working.
 
 1. Upload `control-wp-core-emails` to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
-1. Choose the emails to suppress.
+1. Go to the General Settings section and choose the emails to suppress.
 
 ### Frequently Asked Questions ###
 
