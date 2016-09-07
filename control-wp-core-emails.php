@@ -59,7 +59,10 @@ class ControlCoreEmails
 	 */
 	public function load_files() {
 
-		// Load our back end.
+		// Load our global file.
+		require_once( 'lib/global.php' );
+
+		// Load our settings file.
 		if ( is_admin() ) {
 			require_once( 'lib/settings.php' );
 		}
