@@ -16,7 +16,7 @@ Control WP Core Emails
 
 ### Description ###
 
-Fine tune the emails sent by WP core.
+Control the emails sent by the WordPress auto-update process. Disable which update result(s) are excluded from email sending.
 
 
 ### Installation ###
@@ -31,10 +31,20 @@ This section describes how to install the plugin and get it working.
 
 #### Why do I need this? ####
 
-Because emails are annoying.
+Maybe you don't. But this is for people who don't want emails sent on site updates. It can get sort of unruly when you have a lot of sites. And because emails are annoying.
+
+#### I would like to edit what the update email contains. Can I do that? ####
+
+Probably, but not with this plugin. This is *only* intended to suppress the emails sent, not modify them in any way.
+
+#### I have a question / bug report / feature request ####
+
+Best place for them is on [Github](https://github.com/norcross/control-wp-core-emails/).
 
 
 ### Screenshots ###
+
+![Settings Page]( control-wp-core-emails/screenshot-1.png?raw=true "Settings Page")
 
 
 ### Changelog ###
