@@ -44,7 +44,7 @@ Best place for them is on [Github](https://github.com/norcross/control-wp-core-e
 
 ### Screenshots ###
 
-![Settings Page]( control-wp-core-emails/screenshot-1.png?raw=true "Settings Page")
+![Settings Page](https://raw.githubusercontent.com/norcross/control-wp-core-emails/master/screenshot-1.png?raw=true "Settings Page")
 
 
 ### Changelog ###
